@@ -1,4 +1,4 @@
-# Now @ 1a - function definitions, pt2
+# Now @ 1b: How to Design Functions/Full Speed HtDF Recipe
 
 
 
