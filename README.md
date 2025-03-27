@@ -1,3 +1,6 @@
+# Now @ 1a - function definitions, pt2
+
+
 
 # Curriculum
 
