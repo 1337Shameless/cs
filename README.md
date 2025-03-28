@@ -1,4 +1,4 @@
-# Now @ 1b: How to Design Functions/Full Speed HtDF Recipe
+# Now @ 1b: How to Design Functions/Varying Recipe Order
 
 
 
