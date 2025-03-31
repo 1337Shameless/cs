@@ -1,4 +1,4 @@
-# Now @ 2: 2: How to Design Data/Interval
+# Now @ 2: How to Design Data/HtDF with Interval
 
 
 
