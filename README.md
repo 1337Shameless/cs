@@ -1,4 +1,4 @@
-# Now @ 3a: How to Design Worlds/Practice Problems
+# Now @ 3b: Compound Data/Compound Data Definitions
 
 
 
